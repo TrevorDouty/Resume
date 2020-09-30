@@ -1,0 +1,36 @@
+body{
+  color: red;
+  background-color: rgb(151, 151, 167);
+
+}
+
+.me{
+  border: rgb(153, 85, 7) solid 10px;
+}
+header{
+ 
+  color: white;
+  background-color: rgb(12, 11, 11);
+  
+}
+
+.picture{
+  border: black, solid, 5px;
+  border-radius: 10px;
+  
+}
+.content{
+  
+}
+
+.work{
+  
+}
+
+.school{
+
+}
+
+.abilities{
+  
+}
